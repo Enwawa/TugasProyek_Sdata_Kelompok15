@@ -6,5 +6,5 @@ Nama Kelompok:
 * Dhimas ibrahim 2400018152
 * Muhammad Alfaridzi 24000018162
 
-TP Sdata = Program Dev C++
-Toko Bakpia = Web PHP
+- TP Sdata = Program Dev C++
+- Toko Bakpia = Web PHP
