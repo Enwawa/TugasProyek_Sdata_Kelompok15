@@ -1,0 +1,22 @@
+Basah;Bakpia Kacang Hijau (isi 15);20000
+Basah;Bakpia Kacang Hijau (isi 5);10000
+Basah;Bakpia Kumbu Hitam (isi 15);20000
+Basah;Bakpia Coklat (isi 15);25000
+Basah;Bakpia Coklat (isi 5);12500
+Basah;Bakpia Keju (isi 15);25000
+Basah;Bakpia Keju (isi 5);12500
+Basah;Bakpia Durian (isi 15);30000
+Basah;Bakpia Nanas (isi 15);20000
+Basah;Bakpia KITKAT (isi 5);25000
+Basah;Bakpia Kurma (isi 15);20000
+Basah;Bakpia Mix (isi 24);45000
+Basah;Bakpia Coklat Keju (isi 15);30000
+Kering;Bakpia Kacang Hijau (isi 10);20000
+Kering;Bakpia Pandan (isi 10);25000
+Kering;Bakpia Coklat (isi 10);30000
+Kering;Bakpia Keju (isi 10);30000
+Kering;Bakpia Nastar (isi 10);30000
+Kering;Bakpia Black Sesame (isi 10);30000
+Kering;Bakpia Mini Sambal (isi 16);30000
+Kering;Bakpia Happy Package (isi 20);45000
+Basah;Bakpia Ketan Hitam Mas Kris;50000
